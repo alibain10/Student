@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "favoriteSubject": "Recess"
+    },
+
+    {
+        "id": 2,
+        "name": "Beau",
+        "favoriteSubject" : "Lunch"
+    },
+
+    {
+        "id": 3,
+        "name": "Ruby",
+        "favoriteSubject" : "Math"
+    }
+
+
+]
